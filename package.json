@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ascii-art": "^2.8.5",
+    "robotjs": "^0.6.0"
+  }
+}
